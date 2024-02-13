@@ -1,30 +1,30 @@
 // create the Project
 
-mkdir restaurant-app
-cd restaurant-app
+1) mkdir restaurant-app 
+2) cd restaurant-app
 
 
 // Backend Setup
 
-mkdir backend
-cd backend
+3) mkdir backend
+4) cd backend
 
-npm init -y
-npm i express cors mongoose
+5) npm init -y
+6) npm i express cors mongoose
 
 
 // Frontend Setup
 
-npx create-react-app frontend
-cd frontend
-npm i axios
+7) npx create-react-app frontend
+8) cd frontend
+9) npm i axios
 
 
 
 // Start the backend:
 
-node server.js
+10) node server.js
 
 // Start the frontend:
 
-npm start
+11) npm start
